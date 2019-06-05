@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/soroushj/es-amd-example#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.11.0"
+    "parcel-bundler": "^1.12.3"
   }
 }
